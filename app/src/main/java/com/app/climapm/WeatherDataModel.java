@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package com.app.climapm;
 
 public class WeatherDataModel {
 

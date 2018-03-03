@@ -175,7 +175,6 @@ public class WeatherController extends AppCompatActivity {
         });
     }
 
-
     // TODO: Add updateUI() here:
     private void updateUI(WeatherDataModel weather){
         mTemperatureLabel.setText(weather.getmTemperature());
